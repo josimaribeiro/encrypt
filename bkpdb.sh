@@ -1,1 +1,0 @@
-/opt/lampp/bin/mysqldump -u root --databases encrypt > backup.sql
